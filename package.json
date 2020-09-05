@@ -1,0 +1,27 @@
+{
+  "name": "ldhz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eclipse-theia/theia.git"
+  },
+  "author": "luckym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eclipse-theia/theia/issues"
+  },
+  "homepage": "https://github.com/eclipse-theia/theia#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "github": "^14.0.0",
+    "http": "0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
