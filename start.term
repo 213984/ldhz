@@ -1,2 +1,2 @@
-npm bash
+npm build
 node index.js
